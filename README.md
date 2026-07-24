@@ -1,2 +1,2 @@
-# edit_plus
+#### MS-DOS Editor Plus
 A little retro project

@@ -6,13 +6,6 @@
 # Editor
 .vscode/
 
-# Other files
-*dat
-*.wav
-*.ini
-!EN.INI
-!SC.INI
-
 # Raw files (FK U DeepSeek)
 *.png
 *.hex

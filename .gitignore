@@ -2,11 +2,3 @@
 *.obj
 *.exe
 *.com
-
-# Editor
-.vscode/
-
-# Raw files (FK U DeepSeek)
-*.png
-*.hex
-*.mid
